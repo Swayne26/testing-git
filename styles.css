@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.heading-title {
+  text-align: center;
+  color: white;
+  padding-top: 2rem;
+  text-transform: uppercase;
+}
+.heading {
+  background: blue;
+  width: 100vw;
+  height: 100vh;
+}
